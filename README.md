@@ -1,2 +1,2 @@
 # dash_cxoracle
-Stuff.
+Plotly Dash display and cx_Oracle database features working together.
